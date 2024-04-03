@@ -1,7 +1,8 @@
 | Notes           | ClockIn                         | ClockOut                        | Total |
 | :-------------- | :------------------------------ | :------------------------------ | :---- |
 | Flutter - Setup | Wed Apr 3 02:00:00 PM WITA 2024 | Wed Mar 27 05:00:00 AM CET 2024 | 3:00  |
-| Flutter - Learn | Wed Apr 3 06:45:00 PM WITA 2024 | Wed Apr 3 07:15:47 PM WITA 2024 | 0:30  |
+| Flutter - Learn | Wed Apr 3 06:45:00 PM WITA 2024 | Wed Apr 3 07:15:00 PM WITA 2024 | 0:30  |
+| Flutter - Learn | Wed Apr 3 07:30:00 PM WITA 2024 | Wed Apr 3 07:45:00 PM WITA 2024 | 0:15  |
 
 ## Wednesday
 
@@ -23,4 +24,9 @@
     - [x] flutter doctor runs
     - [x] create a virtual android device
 
-  - [ ] Flutter create
+  - [x] Flutter create
+
+    - [x] make linux distro work
+
+  - [ ] Editor Tricks
+    - [ ] asdf
